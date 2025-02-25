@@ -1,7 +1,9 @@
+import exe0.Carro;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
-    /*public static void main(String[] args) {
+public class MainCarro {
+    public static void main(String[] args) {
         // criando objetos da classe
         // Instanciar a classe, e criando objetos
         Carro obj1 = new Carro();
@@ -25,5 +27,5 @@ public class Main {
         Carro obj3 = new Carro();
         obj3.exibirDetalhes();
 
-    }*/
+    }
 }
